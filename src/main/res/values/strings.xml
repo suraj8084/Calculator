@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">first</string>
+    <string name="smart_calculator">Smart Calculator </string>
+    <string name="calculator">Calculator</string>
+    <string name="allMathematicalTools">All Mathematical Tools</string>
+    <string name="screen">0</string>
+</resources>
